@@ -113,7 +113,8 @@ We will learn the HTML boilerplate that is needed to get started and what each l
 - PNG: As good as JPG in handling colors but takes more size for similar quality image with a JPG. Good for Diagrams and Icons. 
 - GIF: Good for animations and are never used for photos as they are color-lacking. 
 - SVG: Fancy and awesome; vector-based graphics?! Should be used whenever you can.
-> 7/10 need more practice and learn more abotu security: [Privacy](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a#security_and_privacy) and [Phishing](https://www.ibm.com/topics/phishing) and [Tabnabbing](https://owasp.org/www-community/attacks/Reverse_Tabnabbing) ; [Good blog for more info](https://internetingishard.netlify.app/html-and-css/links-and-images/#image-formats)
+> 8/10 [More on Colors](https://www.w3schools.com/cssref/css_colors_legal.php)
+ and [More CSS Basic Properties](http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html) and [W3School CSS Reference](https://www.w3schools.com/cssref/index.php) and [More Selectors](https://www.w3schools.com/cssref/css_selectors.php) and [Any inline CSS will override the other two methods, which can cause unexpected results. (While we won’t dive into it here, this can actually be taken advantage of.](https://chatgpt.com)
 
 ### Lesson 7
 *__Git Commit Messages__*
